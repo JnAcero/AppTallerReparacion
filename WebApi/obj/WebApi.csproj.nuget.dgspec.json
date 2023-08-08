@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\WebApi\\WebApi.csproj": {}
+    "/home/skylab-133/Desktop/AppTallerReparacion/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\Aplicacion.csproj": {
+    "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Juan Acero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\obj\\",
+        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/skylab-133/.nuget/packages/",
+        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Acero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj"
+              "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj"
               },
-              "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj"
+              "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj": {
+    "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Juan Acero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\obj\\",
+        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
+        "packagesPath": "/home/skylab-133/.nuget/packages/",
+        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Acero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -127,21 +127,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj": {
+    "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Juan Acero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\obj\\",
+        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/skylab-133/.nuget/packages/",
+        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Acero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj"
+              "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj"
               }
             }
           }
@@ -198,35 +198,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\WebApi\\WebApi.csproj": {
+    "/home/skylab-133/Desktop/AppTallerReparacion/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\Juan Acero\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\WebApi\\obj\\",
+        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/WebApi/WebApi.csproj",
+        "packagesPath": "/home/skylab-133/.nuget/packages/",
+        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Acero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Aplicacion\\Aplicacion.csproj"
+              "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Aplicacion/Aplicacion.csproj"
               }
             }
           }
@@ -283,7 +282,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }

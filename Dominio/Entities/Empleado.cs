@@ -7,7 +7,7 @@ namespace Dominio.Entities
     {
         public int IdUsuario { get; set; }
         [ForeignKey("IdUsuario")]
-        public Usuario Usuario {get;set;} =null!;
+        public Usuario ? Usuario {get;set;} 
         public decimal Salario { get; set; } 
         public int IdCargo {get;set;}
         [ForeignKey("IdCargo")]

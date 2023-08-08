@@ -1053,19 +1053,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Juan Acero\\.nuget\\packages\\": {}
+    "/home/skylab-133/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Juan Acero\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Persistencia\\obj\\",
+      "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
+      "packagesPath": "/home/skylab-133/.nuget/packages/",
+      "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Juan Acero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/skylab-133/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1077,8 +1077,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\Users\\Juan Acero\\Documents\\Campus\\AppTallerReparacion\\Dominio\\Dominio.csproj"
+            "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
+              "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj"
             }
           }
         }
@@ -1122,7 +1122,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }
