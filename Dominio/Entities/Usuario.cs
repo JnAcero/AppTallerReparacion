@@ -1,20 +1,17 @@
 
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Dominio.Entities
 {
     public class Usuario:BaseEntityGeneric
     {
-        private string password;
-        public Usuario(string contraseña)
-        {
-            password = contraseña;
-        }
-        public string Password {
-            set{
-                password = value;
-            }}
         public string NombreUsuario { get; set; } = null!;
-        
+        [Required]
+        [MaxLength(15)]
+        public string Password { get; set; }=null!;
         public int IdTipoUsuario { get; set; }
+        [ForeignKey("IdTipoUsuario")]
         public virtual TipoUsuario TipUsuario { get; set; }= null!;
     }
 }
