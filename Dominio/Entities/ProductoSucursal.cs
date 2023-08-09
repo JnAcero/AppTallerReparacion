@@ -7,7 +7,7 @@ namespace Dominio.Entities
     {
         public int ProductoId { get; set; }
         [ForeignKey("ProductoId")]
-        public Producto producto { get; set; }=null!;
+        public Producto Producto { get; set; }=null!;
         public int SucursalId { get; set; }
         [ForeignKey("SucursalId")]
         public Sucursal Sucursal { get; set; }=null!;

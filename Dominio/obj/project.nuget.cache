@@ -1,22 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "tmKrWGD/hk2i8Kqqosb5CVOVIqh9Xi71ClX4Nlww8s785kMTGBYY2FpBCM3L/RmrroD6HTV9ADr57L0N/52h8w==",
+  "dgSpecHash": "ctVeW7jvQAJn2YAqwJhiHq/TO8jclOz/2szpTxvGOLXGnoitXJXuh5S6NiTKmXK0VmR1nxh6uhYk/wehBpeHww==",
   "success": true,
-  "projectFilePath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
+  "projectFilePath": "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
   "expectedPackageFiles": [
-    "/home/skylab-133/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/home/skylab-133/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/home/apolm01-034/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/apolm01-034/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

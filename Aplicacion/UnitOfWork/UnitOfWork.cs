@@ -14,6 +14,7 @@ namespace Aplicacion.UnitOfWork
         private readonly TallerRepDbContext _context;
         private readonly IMapper _mapper;
         private VehiculoRepository _vehiculos;
+        private ClienteRepository _clientes;
         public UnitOfWork(TallerRepDbContext context)
         {
             _context = context;
@@ -27,6 +28,19 @@ namespace Aplicacion.UnitOfWork
                 }
                 return _vehiculos;
             }
+        }
+        public ICliente Clientes{
+            get{
+                if(_clientes == null)
+                {
+                    _clientes = new ClienteRepository(_context);
+                }
+                return _clientes;
+            }
+        }
+        public async Task<int> SaveAsync()
+        {
+           return  await _context.SaveChangesAsync();
         }
 
         public void Dispose()

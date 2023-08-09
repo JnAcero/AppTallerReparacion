@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {}
+    "/home/apolm01-034/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
+    "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
-        "packagesPath": "/home/skylab-133/.nuget/packages/",
-        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/obj/",
+        "projectPath": "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj",
+        "packagesPath": "/home/apolm01-034/.nuget/packages/",
+        "outputPath": "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
+          "/home/apolm01-034/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,10 +38,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
@@ -71,17 +67,17 @@
         }
       }
     },
-    "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {
+    "/home/apolm01-034/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "/home/apolm01-034/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/skylab-133/.nuget/packages/",
-        "outputPath": "/home/skylab-133/Desktop/AppTallerReparacion/Persistencia/obj/",
+        "projectPath": "/home/apolm01-034/Desktop/AppTallerReparacion/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/apolm01-034/.nuget/packages/",
+        "outputPath": "/home/apolm01-034/Desktop/AppTallerReparacion/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-133/.nuget/NuGet/NuGet.Config"
+          "/home/apolm01-034/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -93,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
-                "projectPath": "/home/skylab-133/Desktop/AppTallerReparacion/Dominio/Dominio.csproj"
+              "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj": {
+                "projectPath": "/home/apolm01-034/Desktop/AppTallerReparacion/Dominio/Dominio.csproj"
               }
             }
           }
@@ -115,7 +111,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
